@@ -12,6 +12,7 @@
       - punishment 
   - authority
   - skin in the game
+  - mbti personality types
 
 
 - physics
